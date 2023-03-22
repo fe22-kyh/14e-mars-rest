@@ -4,8 +4,8 @@ Innan dess är det bra om du provar på klient rendering genom att ta bort vyern
 
 Tips, du kommer att behöva skapa två seperata projekt. Ett server projekt med express varifrån du kan hämta och skicka in data om hamstrar. Klient sidan består av motsvarande vyer som du har skapat i mustache (eller annan template engine) förutom att datan klient renderas med fetch.
 
-[GET] - http://localhost:<port>/pair/hamster/ <-- hämtar två hamstrar
-[GET] - http://localhost:<port>/hamster/ <-- hämtar alla hamstrar
+[GET] - http://localhost:<port>/pair/hamster/ <-- hämtar två hamstrar <br>
+[GET] - http://localhost:<port>/hamster/ <-- hämtar alla hamstrar <br>
 [PUT] - http://localhost:<port>/hamster/:id <-- skapar en ny röstning för en hamster
 
 ### Level up
