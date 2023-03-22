@@ -9,5 +9,5 @@ Tips, du kommer att behöva skapa två seperata projekt. Ett server projekt med 
 [PUT] - http://localhost:<port>/hamster/:id <-- skapar en ny röstning för en hamster
 
 ### Level up
-[POST] - http://localhost:<port>/hamster/ <-- skapar en ny hamster
+[POST] - http://localhost:<port>/hamster/ <-- skapar en ny hamster <br>
 [DELETE] - http://localhost:<port>/hamster/:id <-- tar bort en hamster
